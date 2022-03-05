@@ -1,6 +1,6 @@
 # Portfolio
 
-## ABOUT ##
+## About ##
 This is my personal project to understand Web Development.
 
 
