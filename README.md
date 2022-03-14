@@ -1,7 +1,7 @@
 # Portfolio
 
 ## About ##
-This is my personal project to understand Web Development.
+This is my personal project to understand functionalities of Web Development.
 
 
 
